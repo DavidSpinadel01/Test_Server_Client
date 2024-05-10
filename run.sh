@@ -9,3 +9,5 @@ pip install -r requirements.txt
 gnome-terminal -- python3 server.py
 gnome-terminal -- python3 client.py
 gnome-terminal -- python3 ai_client.py
+
+pytest
