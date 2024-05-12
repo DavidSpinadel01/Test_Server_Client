@@ -1,4 +1,3 @@
-import struct
 
 HEADER_LENGTH = 10
 

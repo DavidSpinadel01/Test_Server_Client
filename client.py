@@ -19,7 +19,7 @@ class Client:
         while True:
             message = receive_message(self.socket)
             if message:
-                print(f"Server: {message}")
+                print(f"\nServer: {message}")
             else:
                 print("Connection closed by the server")
                 break
